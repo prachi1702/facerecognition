@@ -1,4 +1,4 @@
-#Face Recognition and Emotion Detection
+# Face Recognition and Emotion Detection
 Made with React js
 
 # Getting Started with Create React App
